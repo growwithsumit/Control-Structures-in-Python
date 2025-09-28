@@ -27,11 +27,11 @@ This script takes an integer as input from the user and determines whether that 
     * Error handling (`try-except`)
 * **Example Usage & Output:**
     ```
-    Enter an number: 42
+    Enter a number: 42
     ✅ 42 is an even number.
     ```
     ```
-    Enter an integer: 17
+    Enter a number: 17
     ☑️ 17 is an odd number.
     ```
     ```
