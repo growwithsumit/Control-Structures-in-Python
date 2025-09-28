@@ -1,4 +1,4 @@
-# Python Basics: Control Flow and Loops
+# Control-Structures-in-Python
 
 ## 📖 Overview
 
