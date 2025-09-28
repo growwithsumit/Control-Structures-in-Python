@@ -34,7 +34,6 @@ This script takes an integer as input from the user and determines whether that 
     Enter a number: 17
     ☑️ 17 is an odd number.
     ```
-    ```
 
 ### 2. Sum of Integers from 1 to 50 (`sum_of_50_integers.py`)
 
@@ -54,6 +53,4 @@ This program calculates the sum of all integers from 1 up to and including 50 us
     ```
     The sum of all integers from 1 to 50 is: 1275
     ```
-
----
 
